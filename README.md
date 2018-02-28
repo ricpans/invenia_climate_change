@@ -25,7 +25,9 @@ Hong Liu Li, Xiaoqin Fei, and Chen Shen helped in the organisation of the data c
 References
 
 Fischbacher, U. 2007. z-Tree: Zurich toolbox for ready-made economic experiments. Experimental economics, 10, 171-178
+
 Jacquet, J., Hagel, K., Hauert, C., Marotzke, J., Rohl, T. & Milinski, M. 2013. Intra- and intergenerational discounting in the climate game. Nature Clim. Change, 3, 1025-1028, 10.1038/nclimate2024
 http://www.nature.com/nclimate/journal/v3/n12/abs/nclimate2024.html#supplementary-information.
+
 Kuznetsova, A., Brockhoff, P. B. & Christensen, R. H. B. 2015. Package ‘lmerTest’. R package version, 2.0-29
 R_Core_Team. 2016. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. 2015.: R Core Team.
