@@ -21,7 +21,9 @@ A Social Value Orientation questionnaire established that collectivistic values 
 Acknowledgements
 
 Hong Liu Li, Xiaoqin Fei, and Chen Shen helped in the organisation of the data collection. RP obtained in 2015 funding from the Chinese Academy of Science President’s International Fellowship Initiative n. 2015PB058, the National Natural Science Foundation of China (NSFC) grant n. 31450110421, and a Microsoft Artificial Intelligence for Earth grant to use A. I. technology to do research about sustainability (58fc59d8-3bdd-40f6-858e-ca39250d6ea9).
+
 References
+
 Fischbacher, U. 2007. z-Tree: Zurich toolbox for ready-made economic experiments. Experimental economics, 10, 171-178
 Jacquet, J., Hagel, K., Hauert, C., Marotzke, J., Rohl, T. & Milinski, M. 2013. Intra- and intergenerational discounting in the climate game. Nature Clim. Change, 3, 1025-1028, 10.1038/nclimate2024
 http://www.nature.com/nclimate/journal/v3/n12/abs/nclimate2024.html#supplementary-information.
