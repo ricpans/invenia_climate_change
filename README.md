@@ -17,7 +17,9 @@ A Social Value Orientation questionnaire established that collectivistic values 
 
 ![alt text](https://github.com/ricpans/invenia_climate_change/blob/master/pie.png)
 
+
 Acknowledgements
+
 Hong Liu Li, Xiaoqin Fei, and Chen Shen helped in the organisation of the data collection. RP obtained in 2015 funding from the Chinese Academy of Science President’s International Fellowship Initiative n. 2015PB058, the National Natural Science Foundation of China (NSFC) grant n. 31450110421, and a Microsoft Artificial Intelligence for Earth grant to use A. I. technology to do research about sustainability (58fc59d8-3bdd-40f6-858e-ca39250d6ea9).
 References
 Fischbacher, U. 2007. z-Tree: Zurich toolbox for ready-made economic experiments. Experimental economics, 10, 171-178
