@@ -11,7 +11,7 @@ We acquired two types of empirical data relating to cooperation via z-Tree (Fisc
 
 The results we obtained from the Chinese sample show that, differently from the German model whose none of their groups managed to coordinate and invest in group (Jacquet et al. 2013), 5 out of 8 Chinese groups were effective at investing for planting trees.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/graph.png)
+![alt text](https://raw.githubusercontent.com/ricpans/invenia_climate_change/graph.png)
 
 A Social Value Orientation questionnaire established that collectivistic values allow for the emergence of group cooperation.
 
